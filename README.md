@@ -2,4 +2,5 @@
 
 | Week | Notebook Link | Descriptions |
 |------|---------------|--------------|
-|   1   |     [Colab](https://colab.research.google.com/github/uwdata/visualization-curriculum/blob/master/altair_introduction.ipynb)          |     Introduction to Altair         |
+|   1 (Part I)   |     [Colab](https://colab.research.google.com/github/uwdata/visualization-curriculum/blob/master/altair_introduction.ipynb)          |     Introduction to Altair         |
+| 2 (Part II) | [Colab](https://colab.research.google.com/github/uwdata/visualization-curriculum/blob/master/altair_marks_encoding.ipynb) | Visual Encoding  | 
